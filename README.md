@@ -1,6 +1,6 @@
 # Binomial-Trees
-This program can construct a Black-Derman-Toy (Libor) tree. 
+The construction of binomial trees in excel is a tedius exercise and frequently leads to mistakes. While taking a fixed income class in university I was inspired to write a program to solve these problems. 
 
-The excel input file can be used to change the inputs
+The program takes information from the 'tree-input.xls' spreadsheet, where the inputs can be changed. 
 
-The program will return the data as 'tree-output.xls'
+After running the program it will return the binomial tree as 'tree-output.xls'
